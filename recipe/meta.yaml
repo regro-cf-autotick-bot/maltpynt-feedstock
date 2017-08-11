@@ -1,7 +1,7 @@
 {% set name = "maltpynt" %}
-{% set version = "2.0" %}
+{% set version = "2.0.1" %}
 {% set hash_type = "sha256" %}
-{% set hash_value = "350d66f4f26189870b26d6a743d0e5fba0dfc1c0343a1da556af6b7f17ce7d78" %}
+{% set hash_value = "e23039bad963d53626934ab76d129f5cdc8e8a3e36a9ede247c3d041b1fcaf24" %}
 
 package:
   name: '{{ name|lower }}'
