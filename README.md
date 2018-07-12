@@ -1,3 +1,8 @@
+maltpynt is deprecated
+======================
+
+maltpynt has been superceded by a newer package, [HENEDRICS](https://github.com/StingraySoftware/HENDRICS). It is available on conda-forge under the name [hendrics](https://github.com/conda-forge/hendrics-feedstock).
+
 About maltpynt
 ==============
 
