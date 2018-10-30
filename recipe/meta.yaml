@@ -13,7 +13,7 @@ source:
   '{{ hash_type }}': '{{ hash_value }}'
 
 build:
-  number: 0
+  number: 1000
   entry_points:
     - MPreadevents = maltpynt.read_events:main
     - MPlcurve = maltpynt.lcurve:main
